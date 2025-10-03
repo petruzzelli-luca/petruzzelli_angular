@@ -12,4 +12,5 @@ import { TerzoComponente } from './terzo-componente/terzo-componente';
 })
 export class App {
   protected readonly title = signal('petruzzelli');
+  testo="l'app"
 }
