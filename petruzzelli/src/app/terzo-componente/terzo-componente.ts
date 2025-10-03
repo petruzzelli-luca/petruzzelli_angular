@@ -8,5 +8,5 @@ import { QuartoComponente } from '../quarto-componente/quarto-componente';
   styleUrl: './terzo-componente.css'
 })
 export class TerzoComponente {
-
+  Testo = "Terzo"
 }
